@@ -1,0 +1,9 @@
+node_modules
+dist
+.tools
+.test-output
+.git
+.env
+coverage
+.delivery
+*.zip
